@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ApnaNewz/static/css/main.abd64e84.css",
+    "main.js": "/ApnaNewz/static/js/main.37ab81c4.js",
+    "static/js/787.8ae2dbef.chunk.js": "/ApnaNewz/static/js/787.8ae2dbef.chunk.js",
+    "static/media/Fading lines.gif": "/ApnaNewz/static/media/Fading lines.72e5fa5c981ec0b7b37b.gif",
+    "index.html": "/ApnaNewz/index.html",
+    "main.abd64e84.css.map": "/ApnaNewz/static/css/main.abd64e84.css.map",
+    "main.37ab81c4.js.map": "/ApnaNewz/static/js/main.37ab81c4.js.map",
+    "787.8ae2dbef.chunk.js.map": "/ApnaNewz/static/js/787.8ae2dbef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.37ab81c4.js"
+  ]
+}
